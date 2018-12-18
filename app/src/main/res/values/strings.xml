@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">DemoApp</string>
     <string name="click_me">Click Me!</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter Username</string>
 </resources>
